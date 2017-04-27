@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#babylawntitle {
+	font-weight: bold;
+	font-size: 89px;
+	margin-bottom: 20px;
+	display: inline-block;
+	-webkit-transform: scale(1,2); /* Safari and Chrome */
+	-moz-transform: scale(1,2); /* Firefox */
+	-ms-transform: scale(1,2); /* IE 9 */
+	-o-transform: scale(1,2); /* Opera */
+	transform: scale(1,2);
+	line-height: 161%;
+}
