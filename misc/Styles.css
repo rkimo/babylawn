@@ -1,6 +1,21 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.box {
+	background-color:pink;
+	margin:auto;
+	}
+
+
+
+
+
+
+
+
+
+
+
 /* unvisited link */
 a:link {
     color: black;
