@@ -130,6 +130,7 @@ a:active {
 	
 /*////// flexbox //////*/
 .flexbox-container {
+	max-width:900px;
 	display: flex;
 	padding-top: 2%;
 	padding-right: 2%;

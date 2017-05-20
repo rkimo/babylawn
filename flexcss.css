@@ -107,8 +107,7 @@ a:active {
 .flex-container {
     display: -webkit-flex;
     display: flex;
-    width: 100%;
-	max-width:1060px;
+	max-width:900px;
     height: 100%;
     flex-wrap: wrap;
 }
